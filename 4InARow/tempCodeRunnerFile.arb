@@ -1,0 +1,1 @@
+Image.new("box.png",x: j * 60, y: (i+1) * 60)
